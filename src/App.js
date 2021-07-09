@@ -6,7 +6,8 @@ export default function App() {
       <div className="container">
       <h1>Amanda Pipich website</h1>
     </div>
-    <footer className="myCode"><small>Open-source code by Amanda Pipich</small></footer>
+    <footer className="myCode"><small><a href="https://github.com/apipich/ALP_website" target="_blank" rel="noopener noreferrer">
+      Open-source code</a> by Amanda Pipich</small></footer>
     </div>
   );
 }
