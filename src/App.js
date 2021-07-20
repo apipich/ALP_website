@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <Navigation />
-      <h1>Amanda Pipich website</h1>
+      <h1>Coming soon...</h1>
 <Homepage />
     </div>
     <footer className="myCode"><small><a href="https://github.com/apipich/ALP_website" target="_blank" rel="noopener noreferrer">
