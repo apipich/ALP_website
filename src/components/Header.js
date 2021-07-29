@@ -11,11 +11,14 @@ export default function Header() {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
-          <LinkContainer to="/service">
-            <Nav.Link>Service</Nav.Link>
+          <LinkContainer to="/Contact">
+            <Nav.Link>Contact</Nav.Link>
           </LinkContainer>
           <LinkContainer to="/about">
             <Nav.Link>About</Nav.Link>
+          </LinkContainer>
+          <LinkContainer to="/Projects">
+            <Nav.Link>Projects</Nav.Link>
           </LinkContainer>
         </Nav>
       </Navbar.Collapse>

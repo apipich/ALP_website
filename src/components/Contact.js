@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function Service() {
+export default function Contact() {
   return (
     <div>
-      <h1>This is Service Page</h1>
+      <h1>This is the Contact Page</h1>
       <p>
         Lorem ipsum dolor sit amet, an tibique recteque partiendo quo. Causae
         adipisci in sit, qui at eros intellegam conclusionemque, est ad vide

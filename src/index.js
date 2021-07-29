@@ -3,8 +3,9 @@ import ReactDOM from "react-dom";
 import App from "./App";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Header from "./components/Header";
-import Service from "./components/Service";
+import Contact from "./components/Contact";
 import About from "./components/About";
+import Projects from "./components/Projects";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -12,8 +13,9 @@ ReactDOM.render(
       <Header />
       <Switch>
         <Route exact path="/" component={App} />
-        <Route path="/service" component={Service} />
-        <Route path="/about" component={About} />
+        <Route path="/Contact" component={Contact} />
+        <Route path="/About" component={About} />
+        <Route path="/Projects" component={Projects} />
       </Switch>
     </Router>
   </React.StrictMode>,
