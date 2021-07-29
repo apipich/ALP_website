@@ -1,12 +1,21 @@
-import { StrictMode } from "react";
+import React from "react";
 import ReactDOM from "react-dom";
-
 import App from "./App";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Header from "./components/Header";
+import Service from "./components/Service";
+import About from "./components/About";
 
-const rootElement = document.getElementById("root");
 ReactDOM.render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
-  rootElement
+  <React.StrictMode>
+    <Router>
+      <Header />
+      <Switch>
+        <Route exact path="/" component={App} />
+        <Route path="/service" component={Service} />
+        <Route path="/about" component={About} />
+      </Switch>
+    </Router>
+  </React.StrictMode>,
+  document.getElementById("root")
 );
