@@ -4,7 +4,7 @@ import { LinkContainer } from "react-router-bootstrap";
 
 export default function Header() {
   return (
-    <Navbar bg="light" expand="lg">
+    <Navbar className="justify-content-end" bg="light" expand="lg">
       <LinkContainer to="/">
         <Navbar.Brand>Amanda Pipich</Navbar.Brand>
       </LinkContainer>
