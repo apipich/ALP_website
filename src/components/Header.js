@@ -1,10 +1,11 @@
 import React from "react";
 import { Navbar, Nav } from "react-bootstrap";
 import { LinkContainer } from "react-router-bootstrap";
+import "./Header.css";
 
 export default function Header() {
   return (
-    <Navbar bg="light" expand="lg">
+    <Navbar className="color-nav" expand="lg">
       <LinkContainer to="/">
         <Navbar.Brand>Amanda Pipich</Navbar.Brand>
       </LinkContainer>
