@@ -6,6 +6,7 @@ import Header from "./components/Header";
 import Contact from "./components/Contact";
 import About from "./components/About";
 import Projects from "./components/Projects";
+import Photography from "./components/Photography";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -16,6 +17,7 @@ ReactDOM.render(
         <Route path="/Contact" component={Contact} />
         <Route path="/About" component={About} />
         <Route path="/Projects" component={Projects} />
+        <Route path="/Photography" component={Photography} />
       </Switch>
     </Router>
   </React.StrictMode>,

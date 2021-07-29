@@ -20,6 +20,9 @@ export default function Header() {
           <LinkContainer to="/Projects">
             <Nav.Link>Projects</Nav.Link>
           </LinkContainer>
+          <LinkContainer to="/Photography">
+            <Nav.Link>Photography</Nav.Link>
+          </LinkContainer>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
