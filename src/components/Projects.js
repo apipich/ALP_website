@@ -4,10 +4,11 @@ import ProjectTwo from "./ProjectTwo.js";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import "./Projects.css";
 
 export default function Projects() {
   return (
-    <div className="container">
+    <div className="Projects">
       <Container>
         <Row>
           <Col>
