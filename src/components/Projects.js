@@ -20,7 +20,7 @@ export default function Projects() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <img src={project1} width="300" alt="yes" />
+                <img src={project1} width="300" alt="javascript weather" />
               </a>
             </div>
           </Col>
@@ -32,7 +32,7 @@ export default function Projects() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <img src={project2} width="300" alt="yes" />
+                <img src={project2} width="300" alt="react weather" />
               </a>
             </div>
           </Col>
@@ -44,7 +44,7 @@ export default function Projects() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <img src={project3} width="300" alt="yes" />
+                <img src={project3} width="300" alt="react dictionary" />
               </a>
             </div>
           </Col>
