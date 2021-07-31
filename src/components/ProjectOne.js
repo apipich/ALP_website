@@ -1,11 +1,17 @@
 import React from "react";
-import project1 from "./src/images/project1.png";
+import project1 from "./project1.png";
 
 export default function ProjectOne() {
   return (
     <div className="projectOne">
       <h4>Javascript Project</h4>
-      <img src={require(project1)} alt="yes" />
+      <a
+        href="https://vibrant-lovelace-115a07.netlify.app/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img src={project1} width="300" alt="yes" />
+      </a>
     </div>
   );
 }
