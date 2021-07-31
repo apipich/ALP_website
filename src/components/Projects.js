@@ -40,7 +40,7 @@ export default function Projects() {
             <div className="projectThree">
               <h5>React Dictionary Project</h5>
               <a
-                href="https://distracted-heyrovsky-8e212e.netlify.app/"
+                href="https://nervous-bardeen-829a9e.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >
