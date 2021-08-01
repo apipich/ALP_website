@@ -29,6 +29,13 @@ export default function Photography() {
                 class="img-thumbnail"
               />
             </div>
+            <div className="col-4">
+              <img
+                src="courtyard.JPG"
+                alt="Paris, France"
+                class="img-thumbnail"
+              />
+            </div>
           </div>
         </div>
       </div>
