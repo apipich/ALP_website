@@ -12,6 +12,7 @@ export default function Photography() {
           <div className="col-4">
             <img src="napa.JPG" alt="Napa, CA" class="img-thumbnail" />
             <img src="paris.JPG" alt="Paris, France" class="img-thumbnail" />
+            <img src="greece.JPG" alt="Oia, Greece" class="img-thumbnail" />
           </div>
           <div className="col-4">
             <img src="castle.JPG" alt="Paris, France" class="img-thumbnail" />
