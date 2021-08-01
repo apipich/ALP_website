@@ -7,20 +7,21 @@ import "./Photography.css";
 export default function Photography() {
   return (
     <div className="photography">
-      <h1>photography</h1>
-      <h3>places I love</h3>
-      <h4>photos by me</h4>
-      <div className="Container"></div>
-      <div className="Row">
-        <div className="col-4">
-          <img src={napa} alt="Napa, CA" class="img-thumbnail" />
+      <br />
+      <h2>photos taken by me</h2>
+      <br />
+      <div className="container">
+        <div className="row">
+          <div className="col-4">
+            <img src={napa} alt="Napa, CA" class="img-thumbnail" />
+          </div>
+          <div className="col-4">
+            <img src={paris} alt="Paris, France" class="img-thumbnail" />
+          </div>
+          <div className="col-4">
+            <img src={castle} alt="Paris, France" class="img-thumbnail" />
+          </div>
         </div>
-      </div>
-      <div className="col-4">
-        <img src={paris} alt="Paris, France" class="img-thumbnail" />
-      </div>
-      <div className="col-4">
-        <img src={castle} alt="Paris, France" class="img-thumbnail" />
       </div>
     </div>
   );
