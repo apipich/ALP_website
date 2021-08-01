@@ -1,7 +1,4 @@
 import React from "react";
-import project1 from "./project1.png";
-import project2 from "./project2.png";
-import project3 from "./project3.png";
 import "./Projects.css";
 
 export default function Projects() {
@@ -15,7 +12,7 @@ export default function Projects() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={project1} width="300" alt="javascript weather" />
+            <img src="project1.png" width="300" alt="javascript weather" />
           </a>
         </div>
       </div>
@@ -26,7 +23,7 @@ export default function Projects() {
           target="_blank"
           rel="noreferrer"
         >
-          <img src={project2} width="300" alt="react weather" />
+          <img src="project2.png" width="300" alt="react weather" />
         </a>
       </div>
       <div className="col-sm">
@@ -36,7 +33,7 @@ export default function Projects() {
           target="_blank"
           rel="noreferrer"
         >
-          <img src={project3} width="300" alt="react dictionary" />
+          <img src="project3.png" width="300" alt="react dictionary" />
         </a>
       </div>
     </div>
