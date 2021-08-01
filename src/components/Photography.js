@@ -16,15 +16,11 @@ export default function Photography() {
           <img src={napa} alt="Napa, CA" class="img-thumbnail" />
         </div>
       </div>
-      <div className="Row">
-        <div className="col-4">
-          <img src={paris} alt="Paris, France" class="img-thumbnail" />
-        </div>
+      <div className="col-4">
+        <img src={paris} alt="Paris, France" class="img-thumbnail" />
       </div>
-      <div className="Row">
-        <div className="col-4">
-          <img src={castle} alt="Paris, France" class="img-thumbnail" />
-        </div>
+      <div className="col-4">
+        <img src={castle} alt="Paris, France" class="img-thumbnail" />
       </div>
     </div>
   );
