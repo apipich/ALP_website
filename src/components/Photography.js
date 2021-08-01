@@ -2,6 +2,7 @@ import React from "react";
 import napa from "./napa.JPG";
 import paris from "./paris.JPG";
 import castle from "./castle.JPG";
+import "./Photography.css";
 
 export default function Photography() {
   return (
