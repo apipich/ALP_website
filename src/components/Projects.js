@@ -5,7 +5,7 @@ export default function Projects() {
   return (
     <div className="container">
       <div className="row">
-        <div className="col-sm">
+        <div className="col-4">
           <h5>Javascript Weather Project</h5>
           <a
             href="https://vibrant-lovelace-115a07.netlify.app/"
@@ -16,7 +16,7 @@ export default function Projects() {
           </a>
         </div>
       </div>
-      <div className="col-sm">
+      <div className="col-4">
         <h5>React Weather Project</h5>
         <a
           href="https://distracted-heyrovsky-8e212e.netlify.app/"
@@ -26,7 +26,7 @@ export default function Projects() {
           <img src="project2.png" width="300" alt="react weather" />
         </a>
       </div>
-      <div className="col-sm">
+      <div className="col-4">
         <h5>React Dictionary Project</h5>
         <a
           href="https://nervous-bardeen-829a9e.netlify.app/"
