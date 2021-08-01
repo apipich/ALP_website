@@ -18,6 +18,11 @@ export default function Photography() {
           <div className="col-4">
             <img src="castle.JPG" alt="Paris, France" class="img-thumbnail" />
           </div>
+          <div className="row">
+            <div className="col-4">
+              <img src="night.JPG" alt="Paris, France" class="img-thumbnail" />
+            </div>
+          </div>
         </div>
       </div>
     </div>
