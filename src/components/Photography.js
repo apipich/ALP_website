@@ -26,6 +26,7 @@ export default function Photography() {
               alt="Paris, France"
               class="img-thumbnail"
             />
+            <img src="boat.JPG" alt="Greece" class="img-thumbnail" />
           </div>
         </div>
       </div>
