@@ -1,5 +1,6 @@
 import React from "react";
 import napa from "./napa.JPG";
+import paris from "./paris.JPG";
 
 export default function Photography() {
   return (
@@ -11,6 +12,11 @@ export default function Photography() {
       <div className="Row">
         <div className="col-4">
           <img src={napa} alt="Napa, CA" class="img-thumbnail" />
+        </div>
+      </div>
+      <div className="Row">
+        <div className="col-4">
+          <img src={paris} alt="Paris, France" class="img-thumbnail" />
         </div>
       </div>
     </div>
