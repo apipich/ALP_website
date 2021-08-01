@@ -7,7 +7,8 @@ export default function Photography() {
   return (
     <div className="photography">
       <h1>photography</h1>
-      <h3>image gallery</h3>
+      <h3>places I love</h3>
+      <h4>photos by me</h4>
       <div className="Container"></div>
       <div className="Row">
         <div className="col-4">
