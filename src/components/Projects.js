@@ -8,7 +8,7 @@ export default function Projects() {
   return (
     <div className="Container">
       <div className="Row">
-        <div className="col-4">
+        <div className="col-4 d-flex">
           <div className="projectOne">
             <h5>Javascript Weather Project</h5>
             <a
