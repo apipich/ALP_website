@@ -10,3 +10,10 @@ h5 {
   margin-top: -18px;
   margin-left: 80px;
 }
+
+.myCode {
+  position: fixed;
+  top: 560px;
+  width: 100%;
+  text-align: center;
+}
