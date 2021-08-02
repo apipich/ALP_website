@@ -10,7 +10,7 @@ export default function Projects() {
       <div className="container">
         <div className="row">
           <div className="col-4">
-            <h5>Javascript Weather Project</h5>
+            <h5>Javascript Weather</h5>
             <a
               href="https://vibrant-lovelace-115a07.netlify.app/"
               target="_blank"
@@ -20,7 +20,7 @@ export default function Projects() {
             </a>
           </div>
           <div className="col-4">
-            <h5>React Weather Project</h5>
+            <h5>React Weather</h5>
             <a
               href="https://distracted-heyrovsky-8e212e.netlify.app/"
               target="_blank"
@@ -30,7 +30,7 @@ export default function Projects() {
             </a>
           </div>
           <div className="col-4">
-            <h5>React Dictionary Project</h5>
+            <h5>React Dictionary</h5>
             <a
               href="https://nervous-bardeen-829a9e.netlify.app/"
               target="_blank"
