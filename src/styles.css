@@ -1,11 +1,15 @@
 .App {
-font-family: sans-serif;
-margin-top: 125px;
+  font-family: sans-serif;
+  margin-top: 125px;
 }
 
 .myCode {
-position: fixed;
-top: 560px;
-width: 100%;
-text-align: center;
+  position: fixed;
+  top: 560px;
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Calligraffitti", cursive;
 }

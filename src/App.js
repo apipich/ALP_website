@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>this is the homepage</h1>
+        <h1>hi, i'm amanda</h1>
         <p>
           Lorem ipsum dolor sit amet, an tibique recteque partiendo quo. Causae
           adipisci in sit, qui at eros intellegam conclusionemque, est ad vide
