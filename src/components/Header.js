@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <Navbar className="color-nav" expand="lg">
       <LinkContainer to="/">
-        <Navbar.Brand>Amanda Pipich</Navbar.Brand>
+        <Navbar.Brand className="myName">amanda pipich</Navbar.Brand>
       </LinkContainer>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
