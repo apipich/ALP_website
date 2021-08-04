@@ -11,7 +11,7 @@ export default function Header() {
       </LinkContainer>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
-        <Nav className="linkNames">
+        <Nav>
           <LinkContainer to="/Contact">
             <Nav.Link>Contact</Nav.Link>
           </LinkContainer>
