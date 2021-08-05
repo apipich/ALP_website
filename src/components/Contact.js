@@ -1,4 +1,5 @@
 import React from "react";
+import "./Contact.css";
 
 export default function Contact() {
   return (
@@ -9,9 +10,19 @@ export default function Contact() {
         <p>form here</p>
         <p>Email: apipich2207@gmail.com</p>
         <p>
-          LinkedIn:{" "}
-          <a href="https://www.linkedin.com/in/amandapipich/">LinkedIn page</a>
+          <a href="https://www.linkedin.com/in/amandapipich/">
+            <i class="fab fa-linkedin"></i>
+          </a>
+          &nbsp;
+          <a href="https://twitter.com/amandapipich?lang=en">
+            <i class="fab fa-twitter"></i>
+          </a>
+          &nbsp;
+          <a href="mailto:apipich2207@gmail.com">
+            <i class="fas fa-envelope"></i>
+          </a>
         </p>
+
         <br />
       </div>
     </div>
