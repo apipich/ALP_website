@@ -12,7 +12,7 @@ export default function Header() {
       </LinkContainer>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
-        <Nav>
+        <Nav className="linkNames">
           <LinkContainer to="/Contact">
             <Nav.Link>Contact</Nav.Link>
           </LinkContainer>

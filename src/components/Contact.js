@@ -1,4 +1,5 @@
 import React from "react";
+
 export default function Contact() {
   return (
     <div className="contact">
@@ -6,7 +7,12 @@ export default function Contact() {
         <br />
         <h1>Contact me</h1>
         <p>form here</p>
-        add social icons
+        <p>Email: apipich2207@gmail.com</p>
+        <p>
+          LinkedIn:{" "}
+          <a href="https://www.linkedin.com/in/amandapipich/">LinkedIn page</a>
+        </p>
+        <br />
       </div>
     </div>
   );

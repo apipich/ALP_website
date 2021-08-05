@@ -1,10 +1,12 @@
 .color-nav {
   background-color: #f7b8d4;
-  font-family: "Noto Sans KR", sans-serif;
-  font-size: 15px;
+  font-size: 17px;
 }
 
 .myName {
   font-family: "Lobster Two", cursive;
-  color: #ffffff;
+}
+
+.linkNames {
+  font-family: "Questrial", sans-serif;
 }
