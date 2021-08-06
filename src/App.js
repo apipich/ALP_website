@@ -37,7 +37,7 @@ export default function App() {
           by Amanda Pipich
         </small>
       </footer>
-      <img src="myMain.jpg" alt="hoboken" width="100%" />
+      <img src="myMain.jpg" alt="hoboken" width="100%" height="300px" />
     </div>
   );
 }
