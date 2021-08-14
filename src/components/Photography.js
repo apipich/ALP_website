@@ -5,7 +5,7 @@ export default function Photography() {
   return (
     <div className="photography">
       <br />
-      <h2>photos by amanda</h2>
+      <h2>photos by me</h2>
       <br />
       <div className="container">
         <div className="row">

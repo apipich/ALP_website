@@ -5,7 +5,7 @@ export default function Projects() {
   return (
     <div className="projects">
       <br />
-      <h2>projects by amanda</h2>
+      <h2>projects by me</h2>
       <br />
       <div className="container">
         <div className="row">
