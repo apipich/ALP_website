@@ -8,7 +8,7 @@ export default function App() {
         <h4>Hi, I'm</h4>
         <h1>amanda pipich.</h1>
         <h4>
-          I'm an advertisng professional by day and a web developer in-training
+          I'm an advertising professional by day and a web developer in-training
           by night. Welcome to my [work in progress] portfolio. Based in
           Hoboken, NJ.
         </h4>
