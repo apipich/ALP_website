@@ -4,7 +4,8 @@ export default function About() {
   return (
     <div className="About">
       <div className="container">
-        <h1>About</h1>
+        <br />
+        <h1>about me</h1>
         <p>
           Lorem ipsum dolor sit amet, an tibique recteque partiendo quo. Causae
           adipisci in sit, qui at eros intellegam conclusionemque, est ad vide

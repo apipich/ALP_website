@@ -9,8 +9,8 @@ export default function App() {
         <p>
           I'm a full time advertising professional in Hoboken (below, my
           beautiful city, right across the river from New York). My love of
-          technology and learning new software has brought me here, and looking
-          to take on freelance projects at any moment. Let's connect! Photo and{" "}
+          technology and learning new software has brought me here, building my
+          website brick by brick. Let's connect! Photo and{" "}
           <a
             href="https://github.com/apipich/ALP_website"
             target="_blank"
